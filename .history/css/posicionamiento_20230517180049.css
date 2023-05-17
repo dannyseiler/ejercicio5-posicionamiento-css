@@ -1,0 +1,23 @@
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery {
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+#imagen-1,
+#imagen-2,
+#imagen-3,
+#imagen-4,
+#imagen-5,
+#imagen-6 {
+  width: 300px;
+}
